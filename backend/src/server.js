@@ -39,7 +39,3 @@ connectDB().then(()=> app.listen(PORT, () => {
     console.log("Server started on PORT:", PORT);
 })
 );
-
-
-
-//mongodb+srv://rijenbhauju11_db_user:xVMqKmJy8Aw7ZIUs@cluster0.ghc6jt7.mongodb.net/?appName=Cluster0
